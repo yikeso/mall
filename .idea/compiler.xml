@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Dfile.encoding=UTF-8 -Xms1024m -Xmx1024m" />
+    <bytecodeTargetLevel target="8">
+      <module name="mallsite" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

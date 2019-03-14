@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mall-site" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mall-site/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="urn:cnaps:std:ccms:2010:tech:xsd:ccms.805.001.02" location="C:/Program Files/JetBrains/send/xsd/ccms.805.001.02.xsd" />
+    <resource url="urn:cnaps:std:ccms:2010:tech:xsd:ccms.903.001.02" location="C:/Program Files/JetBrains/send/xsd/ccms.903.001.02.xsd" />
+    <resource url="urn:cnaps:std:hvps:2010:tech:xsd:hvps.710.001.01" location="C:/Program Files/JetBrains/send/xsd/hvps.710.001.01.xsd" />
+    <resource url="urn:cnaps:std:hvps:2010:tech:xsd:hvps.712.001.01" location="C:/Program Files/JetBrains/send/xsd/hvps.712.001.01.xsd" />
+    <resource url="urn:cnaps:std:hvps:2010:tech:xsd:hvps.714.001.01" location="C:/Program Files/JetBrains/send/xsd/hvps.714.001.01.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
